@@ -1,2 +1,2 @@
 # DBMS-II
-all about the sql query
+All about the sql query
